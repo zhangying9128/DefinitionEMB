@@ -1,0 +1,89 @@
+index	token	pos	definition
+3241	▁approximately	adverb	used to show that something is almost, but not completely, accurate or exact; roughly.
+4234	▁successfully	adverb	in a way that accomplishes a desired aim or result.
+6898	▁respectively	adverb	separately or individually and in the order already mentioned (used when enumerating two or more items or facts that refer back to a previous statement).
+7283	▁represented	verb	past tense of represent.
+8154	▁experiencing	verb	undergoing or feeling something, especially a particular emotion, event, or situation.
+10336	▁alternatives	noun	plural noun of alternative.
+13568	Industrie	proper noun	Industrie is an Australian brand. Est. 1999. Born & Raised In Australia. Fast Global & US Shipping.
+13657	▁Tagen 	proper noun	is the begining part of name, Tagenarine.
+13664	▁Mihai	proper noun	Mihai is a Romanian given name for males or a surname. It is equivalent to the English name Michael.
+14385	▁Freunde	proper noun	 is a name, Freunde.
+14963	▁iTunes	proper noun	a software program that acts as a media player, media library, mobile device management utility, and the client app for the iTunes Store. Developed by Apple Inc., it is used to purchase, play, download, and organize digital multimedia, on personal computers running the macOS and Windows operating systems, and can be used to rip songs from CDs, as well as play content with the use of dynamic, smart playlists.
+15010	▁Flug	proper noun	Flug is the begging part of a German word, Flugsicherung.
+17525	▁Bayern	proper noun	is a German professional sports club based in Munich, Bavaria. It is best known for its professional men's football team, which plays in the Bundesliga, the top tier of the German football league system.
+20210	MHz	symbol	(metrology) Symbol for megahertz, an SI unit of frequency equal to 10^6 hertz.
+20982	Drive	verb	This word is the capitalized word of drive. It means to operate and control the direction and speed of a vehicle; to motivate or push something forward.
+23441	▁Versch	proper noun	is the begining part of name, Verschuuren.
+23908	▁Verizon	proper noun	Verizon Theatre has been renamed and is now known as Texas Trust CU Theatre.
+23934	Please	adverb	The word is capitalized. Used as a polite addition to requests or commands, often capitalized at the beginning of a sentence.
+24227	Online	adverb	It is capitalized. It means while connected to or using a network, particularly the internet.
+24340	▁Lenovo	proper noun	a Chinese multinational technology company specializing in designing, manufacturing, and marketing consumer electronics, personal computers, software, business solutions, and related services. Products manufactured by the company include desktop computers, laptops, tablet computers, smartphones, workstations, servers, supercomputers, data storage devices, IT management software, and smart televisions. Its best-known brands include its ThinkPad business line of laptop computers (acquired from IBM), the IdeaPad, Yoga, and Legion consumer lines of laptop computers, and the IdeaCentre and ThinkCentre lines of desktop computers. As of 2021, it is the world's largest personal computer vendor by unit sales.
+24602	sicherung	proper noun	sicherung is the ending part of a German word, Flugsicherung.
+25118	collaborating	verb	gerund or present participle of collaborate.
+25217	Where	pronoun	Capitalized. Refers to a location or situation.
+26259	▁Vodafone	proper noun	Vodafone Group Plc is a British multinational telecommunications company. Its registered office and global headquarters are in Newbury, Berkshire, England. It predominantly operates services in Asia, Africa, Europe, and Oceania.
+26873	kWh	symbol	kilowatt-hour.
+27800	▁Cristina	proper noun	is a name, Cristina.
+28655	▁Kuchen	proper noun	is the begining part of name, Kuchenbecker.
+30370	Olimp	proper noun	Stadio Olimpico is a stadium in Rome, Italy. It is home to the A.S. Roma and S.S. Lazio football clubs.
+30628	▁Qualcomm	proper noun	an American multinational corporation headquartered in San Diego, California, and incorporated in Delaware. It creates semiconductors, software, and services related to wireless technology. It owns patents critical to the 5G, 4G, CDMA2000, TD-SCDMA and WCDMA mobile communications standards.
+31176	▁Eduard	proper noun	is a male name, which is a German and Dutch form of the English name Edward.
+31568	▁Juventus	proper noun	a professional football club known as Juve based in Turin, Piedmont, Italy, that competes in the Serie A, the top tier of the Italian football league system. Founded in 1897 by a group of Torinese students, the club has worn a black and white striped home kit since 1903 and has played home matches in different grounds around its city, the latest being the 41,507-capacity Juventus Stadium.
+31691	Contact	verb	Capitalized. To communicate with someone, typically to give or receive information.
+			
+5117	▁Durch	proper noun	is the begining part of name, Durch.
+9967	▁Zukunft	proper noun	The German word, translates to "the future" in English.
+18149	▁optimized	verb	To make something as effective, perfect, or functional as possible.
+18799	Université	noun	The French word, translates to "University" in English.
+19103	Design	verb	Capitalized. To create, plan, or arrange something with a specific purpose or intention.
+19759	▁Nicolae	proper noun	is a name, Nicolae.
+19989	▁HTC	proper noun	a Taiwanese consumer electronics company headquartered in Xindian District, New Taipei City, Taiwan. Founded in 1997, It began as an original design manufacturer and original equipment manufacturer that designed and manufactured laptop computers.
+23566	▁Fahrer	proper noun	is a name, Fahrer.
+24741	▁esential	adjective	is the mis-spelled word of essential.
+25714	Association	noun	Capitalized. An organized group of people who share a common interest or purpose.
+25716	Control	verb	Capitalized. To regulate, manage, or command something or someone.
+25728	mAh	symbol	milliampere-hour; one thousandth of an ampere-hour.
+25809	▁Paypal	proper noun	PayPal Holdings, Inc. is an American multinational financial technology company operating an online payments system in the majority of countries that support online money transfers; it serves as an electronic alternative to traditional paper methods such as checks and money orders.
+26030	Site	noun	an area of ground on which a town, building, or monument is constructed.
+27049	▁Sammlung	noun	The German word, translates to "collection" in English.
+27247	Group	noun	Capitalized. A number of people or things that are located, gathered, or classed together.
+27272	Manager	noun	Capitalized. A person responsible for controlling or administering an organization, group, or project.
+27423	▁Traian	proper noun	is a name, Traian.
+27529	Photo	noun	Capitalized. A picture made using a camera, typically stored digitally or printed on paper.
+27556	▁suger	proper noun	is the begining of a mis-spelled word, surgery.
+27674	While	conjunction	Capitalized. Used to indicate a time during which something happens, or to contrast two things happening simultaneously.
+28036	▁Londres	proper noun	is a Aragonese word, translates to "London" in English.
+28290	▁Hafen	proper noun	The German word, translates to "harbor", "port", "dock", "haven", or "shelter" in English.
+28776	Musée	proper noun	The French word, translates to "Museum" in English.
+29201	▁Plastik	proper noun	The Plastiki is a 60-foot (18 m) catamaran made out of 12,500 reclaimed plastic bottles and other recycled PET plastic and waste products. Michael Pawlyn of Exploration Architecture worked on the concept design with David de Rothschild and helped to shape some of the key ideas.
+29234	▁Sachsen	proper noun	an area in Germany around the upper Elbe river; the original home of the Saxons. synonyms: Saxe, Saxony.
+29295	▁Sorin	proper noun	is the begining part of name, Sorina. It is a feminine name with Romanian and Latin origins that means "sun" or "serious, strict, severe".
+29422	kontakt	proper noun	is the middle of the word, VKontakte. VKontakte is a Russian online social media and social networking service based in Saint Petersburg.
+29423	Update	verb	Capitalized. To make something more modern, accurate, or current.
+29642	terapia	proper noun	is the middle of a word, Velaterapia. Velaterapia, also known as candle cutting, is a hair treatment that involves burning off split ends with a candle flame
+29713	▁Arduino	proper noun	an open-source hardware and software company, project, and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices. Its hardware products are licensed under a CC BY-SA license, while the software is licensed under the GNU Lesser General Public License (LGPL) or the GNU General Public License (GPL), permitting the manufacture of Arduino boards and software distribution by anyone.
+29859	wählt	verb	The German word, translates to "to choose", "to select" in English.
+29906	Expert	noun	Capitalized. A person with comprehensive and authoritative knowledge or skill in a particular area.
+29956	Ecole	proper noun	may refer to French word, École. It means an elementary school in the French educational stages normally followed by secondary education establishments (collège and lycée)
+29979	Image	noun	Capitalized. A visual representation of something, such as a picture or likeness, often produced digitally or through photography.
+30068	▁Telekom	proper noun	Deutsche Telekom AG is a partially state-owned German telecommunications company headquartered in Bonn and the largest telecommunications provider in Europe by revenue. It was formed in 1995 when Deutsche Bundespost, a state monopoly at the time, was privatized.
+30343	Agence	proper noun	Agence France-Presse is a French international news agency headquartered in Paris, France. Founded in 1835 as Havas, it is the world's oldest news agency.
+30496	hütte	proper noun	The German word, translates to "hut" in English.
+30699	▁Mozilla	proper noun	a free software community founded in 1998 by members of Netscape. The Mozilla community uses, develops, publishes and supports Mozilla products, thereby promoting exclusively free software and open standards, with only minor exceptions. The community is supported institutionally by the non-profit Mozilla Foundation and its tax-paying subsidiary, the Mozilla Corporation.
+30733	OnePlus	proper noun	a Chinese consumer electronics manufacturer headquartered in Shenzhen, Guangdong, China. It is a subsidiary of Oppo. It was founded by Pete Lau and Carl Pei on 16 December 2013 to develop a high-end flagship smartphone running Cyanogen OS.
+30767	▁Sistem	proper noun	is the begining part of name, Sistema.
+30854	Management	noun	Capitalized. The process of dealing with or controlling things or people.
+30936	▁Achtung	proper noun	a German word that means "attention" or "warning".
+31133	Asus	proper noun	a Taiwanese multinational computer, phone hardware and electronics manufacturer headquartered in Beitou District, Taipei, Taiwan. Its products include desktop computers, laptops, netbooks, mobile phones, networking equipment, monitors, wi-fi routers, projectors, motherboards, graphics cards, optical storage, multimedia products, peripherals, wearables, servers, workstations and tablet PCs. The company is also an original equipment manufacturer (OEM).
+31379	▁Stuhl	proper noun	is the begining part of name, Stuhlbarg.
+31441	▁Guillaume	proper noun	is the French equivalent of William, which is of old Germanic origin from wille + helm (resolute protector)
+31443	selbe	proper noun	is the middle of the name, Sueselbeck.
+31477	Engine	noun	Capitalized. A machine with moving parts that converts power into motion.
+31555	▁Gérard	proper noun	is a French masculine given name and surname of Germanic origin, variations of which exist in many Germanic and Romance languages.
+31637	▁Dumitru	proper noun	is a Romanian surname and given name.
+31679	Access	verb	Capitalized. To obtain, retrieve, or use something, typically information or data.
+31687	anfang	proper noun	is the end of a word, Jiujianfang. Jiujianfang is located in Lantian County, Xian City, Shaanxi Province, China.
+31718	Générale	verb	 The French word, translates to "dress", "rehearsal" in English.
+31832	▁Giurgiu	proper noun	Giurgiu is a city in southern Romania. The seat of Giurgiu County, it lies in the historical region of Muntenia. It is situated amongst mud-flats and marshes on the left bank of the Danube facing the Bulgarian city of Ruse on the opposite bank.
+31933	Westfalen	proper noun	Westphalia (German: Westfalen) is a region of northwestern Germany and one of the three historic parts of the state of North Rhine-Westphalia. It has an area of 20,210 square kilometres (7,800 sq mi) and 7.9 million inhabitants.
