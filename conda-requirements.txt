@@ -1,0 +1,10 @@
+# Editable install with no version control (fairseq==0.12.2)
+-e fairseq_code/fairseq
+numpy==1.24.3
+num2words==0.5.14
+scikit-learn==1.7.2
+matplotlib==3.10.7
+spacy==3.8.9
+torch==2.6.0+cu118
+transformers==4.53.3
+huggingface-hub==0.36.0
