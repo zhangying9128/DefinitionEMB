@@ -1,3 +1,5 @@
+This repository contains the source code for our paper Reconsidering Degeneration of Token Embeddings with Definitions.
+
 1. construct data-bin for fairseq
 
 commands/preprocess_data/process_seq2seq_data.sh
